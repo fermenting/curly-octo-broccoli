@@ -1,0 +1,13 @@
+.book-search {
+   display: inline-block;
+   margin: 10px 0 30px 10px;
+}
+
+.search-button {
+   display: inline-block;
+   margin: 10px 0 13px 10px;
+}
+
+.book-search {
+   width: 90%;
+}

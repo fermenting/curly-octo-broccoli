@@ -1,0 +1,27 @@
+.searched-book-item {
+   background-color: #e9ecef;
+}
+
+.book-image {
+   width: 250px;
+   height: 400px;
+}
+
+.button-container {
+   padding: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.button-container button {
+   margin: 0 15px;
+}
+
+button a {
+   color: white;
+}
+
+button a:hover {
+   color: white;
+}

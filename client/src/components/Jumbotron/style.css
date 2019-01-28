@@ -1,0 +1,17 @@
+h1, h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-shadow: 0 0 5px white;
+}
+h1{
+  font-size: 75px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.jumbotron {
+  background-image: url(http://www.dorrancepublishing.com/wp-content/uploads/2018/08/pile-of-books.jpg)
+}
+
+  
